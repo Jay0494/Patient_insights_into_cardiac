@@ -2,7 +2,7 @@
 
 
 ### Introduction
-This report presents a detailed analysis of cardiac and renal disease prevalence among different patient demographics in the United States, with a specific focus on patients with heart failure and renal disease. Using data segmented by age, general health status, BMI, and race/ethnicity, this study aims to identify trends and correlations that can inform healthcare strategies for managing and potentially reducing the impact of these comorbid conditions.
+This report presents a detailed analysis of cardiac and renal disease prevalence among different patient demographics in the United States, with a specific focus on patients with heart failure and renal disease. Using data segmented by age, general health status, BMI, and race/ethnicity, this study aims to identify trends that can inform healthcare strategies for managing and potentially reducing the impact of these comorbid conditions.
 
 ### Data Cleaning Procedure
 The data cleaning steps involved the following actions to ensure consistency and accuracy:
